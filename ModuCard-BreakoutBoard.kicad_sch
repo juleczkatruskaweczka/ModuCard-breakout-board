@@ -1,0 +1,619 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "31ac04e5-0b29-4cf4-90ae-9d7058f5ad37")
+	(paper "A4")
+	(lib_symbols)
+	(junction
+		(at 111.76 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "60377b03-2cd9-4bcf-850e-d62a8ceb41ee")
+	)
+	(junction
+		(at 115.57 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a01d9f3a-79f0-4101-a4fd-d39e1258d276")
+	)
+	(junction
+		(at 111.76 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c830a6ba-e1e5-401d-8c76-2d482bd98fad")
+	)
+	(bus
+		(pts
+			(xy 115.57 124.46) (xy 115.57 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "130f7902-e91f-42b4-908f-caed15075c24")
+	)
+	(bus
+		(pts
+			(xy 115.57 95.25) (xy 118.11 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "205797d0-e67e-476a-8163-a9d029b7be25")
+	)
+	(bus
+		(pts
+			(xy 111.76 86.36) (xy 118.11 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "282d0923-7bae-469e-a576-93ca87830460")
+	)
+	(bus
+		(pts
+			(xy 163.83 128.27) (xy 170.18 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4aaa3097-d7ce-4785-a8c5-9f217519c802")
+	)
+	(bus
+		(pts
+			(xy 163.83 125.73) (xy 167.64 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c5166b8-b095-493d-9e0b-183df5d12fc5")
+	)
+	(bus
+		(pts
+			(xy 170.18 82.55) (xy 163.83 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "670c6d05-ee99-42e0-888f-4e896fd14779")
+	)
+	(bus
+		(pts
+			(xy 167.64 125.73) (xy 167.64 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "695ece0e-777b-413d-b58d-6cfe18f621ee")
+	)
+	(bus
+		(pts
+			(xy 118.11 127) (xy 111.76 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7209f2a6-8bcd-46dd-b695-e145f04cb683")
+	)
+	(bus
+		(pts
+			(xy 106.68 86.36) (xy 111.76 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78f67fbd-0d05-4158-be86-595a8bbe7c2e")
+	)
+	(bus
+		(pts
+			(xy 163.83 87.63) (xy 165.1 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79f1cce7-6b8c-4b7a-919f-da8837368f09")
+	)
+	(bus
+		(pts
+			(xy 118.11 124.46) (xy 115.57 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a3f26de-1dae-425d-83c1-12258c6436e4")
+	)
+	(bus
+		(pts
+			(xy 170.18 128.27) (xy 170.18 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a902bb0a-2cea-4a97-8c3e-31c8c7d0df35")
+	)
+	(bus
+		(pts
+			(xy 111.76 127) (xy 111.76 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af379e0e-722b-4901-962b-2959974df1b9")
+	)
+	(bus
+		(pts
+			(xy 119.38 50.8) (xy 111.76 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0187557-9736-494b-bf5b-61d7ffff100e")
+	)
+	(bus
+		(pts
+			(xy 106.68 92.71) (xy 111.76 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc74ce76-f062-4563-806c-e643bfa309b9")
+	)
+	(bus
+		(pts
+			(xy 106.68 95.25) (xy 115.57 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d889247d-8e48-45d6-ab10-84be8f85c434")
+	)
+	(bus
+		(pts
+			(xy 165.1 87.63) (xy 165.1 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e30cee04-9d41-4efc-ab2c-6729bf73b76e")
+	)
+	(bus
+		(pts
+			(xy 167.64 85.09) (xy 163.83 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3f98819-f62c-461a-b369-105b3d8a727b")
+	)
+	(bus
+		(pts
+			(xy 111.76 50.8) (xy 111.76 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f832f31b-2561-41fe-88bd-b8f74d854cff")
+	)
+	(bus
+		(pts
+			(xy 163.83 123.19) (xy 165.1 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9d47a8f-24ad-4626-9c38-9a5392721891")
+	)
+	(bus
+		(pts
+			(xy 111.76 92.71) (xy 119.38 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa394604-a6df-4281-b203-c596315281e0")
+	)
+	(sheet
+		(at 177.8 74.93)
+		(size 20.32 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "155f6080-7521-4503-a302-6564cd6066a3")
+		(property "Sheetname" "Mounting holes"
+			(at 177.8 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mounting holes.kicad_sch"
+			(at 177.8 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ModuCard-BreakoutBoard"
+				(path "/31ac04e5-0b29-4cf4-90ae-9d7058f5ad37"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 118.11 72.39)
+		(size 45.72 31.75)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5a7295cb-e95a-4ca1-9c0d-5c618531111e")
+		(property "Sheetname" "DIN41612_breakout"
+			(at 118.11 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DIN41612_breakout.kicad_sch"
+			(at 118.11 104.7246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GPIOR[0..15]" input
+			(at 163.83 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "47fd8556-aa39-40c4-a1bd-a035f3b4ec48")
+		)
+		(pin "GPIOC[0..15]" input
+			(at 163.83 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "95f3bdb4-0c94-4511-924e-d313321d8af8")
+		)
+		(pin "GPIOL[0..15]" input
+			(at 163.83 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "791f669a-8dee-4c1f-8dd5-c480b6601f02")
+		)
+		(pin "USB{+ -}" input
+			(at 118.11 86.36 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "29a2332c-0ffe-4c4a-8343-ff5bf1caab59")
+		)
+		(pin "CAN2{+ -}" input
+			(at 118.11 95.25 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7dd1f87d-0a4c-4f0c-867a-838f681b14b6")
+		)
+		(pin "CAN1{+ -}" input
+			(at 118.11 92.71 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5d71a384-d006-494c-b7aa-30ff6713435f")
+		)
+		(instances
+			(project "ModuCard-BreakoutBoard"
+				(path "/31ac04e5-0b29-4cf4-90ae-9d7058f5ad37"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 118.11 114.3)
+		(size 45.72 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "803b1370-e082-45e2-b0ee-7aa7f97f0c02")
+		(property "Sheetname" "Connector"
+			(at 118.11 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connector.kicad_sch"
+			(at 118.11 136.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CAN1{+ -}" input
+			(at 118.11 127 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b260d4c1-e439-4297-adf0-97d273681a5e")
+		)
+		(pin "CAN2{+ -}" input
+			(at 118.11 124.46 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "eb37b1c9-4322-48b3-ab2f-a9084b5afec0")
+		)
+		(pin "GPIOL[0..15]" input
+			(at 163.83 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3bf54e67-1a5b-45df-b8d2-5125d7fd2dda")
+		)
+		(pin "GPIOC[0..15]" input
+			(at 163.83 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f832ac04-3681-416c-b4c2-bddb3f145d5c")
+		)
+		(pin "GPIOR[0..15]" input
+			(at 163.83 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "efce26a9-7958-44e3-90d5-7999b1d32625")
+		)
+		(instances
+			(project "ModuCard-BreakoutBoard"
+				(path "/31ac04e5-0b29-4cf4-90ae-9d7058f5ad37"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 43.18)
+		(size 39.37 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b95b5973-1619-4ea3-80e6-34ca929b054e")
+		(property "Sheetname" "USB"
+			(at 119.38 42.4684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 119.38 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB{+ -}" input
+			(at 119.38 50.8 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4c851eec-4829-4d09-a9a5-cac4b048ccb8")
+		)
+		(instances
+			(project "ModuCard-BreakoutBoard"
+				(path "/31ac04e5-0b29-4cf4-90ae-9d7058f5ad37"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 78.74 76.2)
+		(size 27.94 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce4dc3bf-630b-4901-b40c-5944ba5b7794")
+		(property "Sheetname" "RJ45"
+			(at 78.74 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RJ45.kicad_sch"
+			(at 78.74 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB{+ -}" input
+			(at 106.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3d47638b-4471-4f36-848b-75dc11165a68")
+		)
+		(pin "CAN2{+ -}" input
+			(at 106.68 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "68a4414e-a8b3-4eae-b96c-74ee3d4f84a6")
+		)
+		(pin "CAN1{+ -}" input
+			(at 106.68 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "da4e8778-5695-42c4-a503-2db3fdd949a3")
+		)
+		(instances
+			(project "ModuCard-BreakoutBoard"
+				(path "/31ac04e5-0b29-4cf4-90ae-9d7058f5ad37"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 176.53 44.45)
+		(size 21.59 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ffc59f61-a8ed-4562-8b36-2c3c563e453a")
+		(property "Sheetname" "Power"
+			(at 176.53 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 176.53 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ModuCard-BreakoutBoard"
+				(path "/31ac04e5-0b29-4cf4-90ae-9d7058f5ad37"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
