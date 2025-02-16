@@ -2371,12 +2371,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+12V_DC_JACK"
-			(at 121.92 120.65 0)
+		(property "Value" "+12V"
+			(at 124.46 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -2503,12 +2504,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+12V_DC_JACK"
-			(at 121.92 105.41 0)
+		(property "Value" "+12V"
+			(at 124.46 109.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
