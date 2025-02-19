@@ -602,6 +602,10 @@
     [
       "ce4dc3bf-630b-4901-b40c-5944ba5b7794",
       "RJ45"
+    ],
+    [
+      "de99791e-eaa1-4efd-99af-4c7f1089cfc2",
+      "USB_switch"
     ]
   ],
   "text_variables": {}

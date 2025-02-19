@@ -17,12 +17,6 @@
 		(color 0 0 0 0)
 		(uuid "a01d9f3a-79f0-4101-a4fd-d39e1258d276")
 	)
-	(junction
-		(at 111.76 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c830a6ba-e1e5-401d-8c76-2d482bd98fad")
-	)
 	(bus
 		(pts
 			(xy 115.57 124.46) (xy 115.57 95.25)
@@ -42,16 +36,6 @@
 			(type default)
 		)
 		(uuid "205797d0-e67e-476a-8163-a9d029b7be25")
-	)
-	(bus
-		(pts
-			(xy 111.76 86.36) (xy 118.11 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "282d0923-7bae-469e-a576-93ca87830460")
 	)
 	(bus
 		(pts
@@ -105,16 +89,6 @@
 	)
 	(bus
 		(pts
-			(xy 106.68 86.36) (xy 111.76 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78f67fbd-0d05-4158-be86-595a8bbe7c2e")
-	)
-	(bus
-		(pts
 			(xy 163.83 87.63) (xy 165.1 87.63)
 		)
 		(stroke
@@ -155,17 +129,7 @@
 	)
 	(bus
 		(pts
-			(xy 119.38 50.8) (xy 111.76 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0187557-9736-494b-bf5b-61d7ffff100e")
-	)
-	(bus
-		(pts
-			(xy 106.68 92.71) (xy 111.76 92.71)
+			(xy 76.2 92.71) (xy 111.76 92.71)
 		)
 		(stroke
 			(width 0)
@@ -175,7 +139,7 @@
 	)
 	(bus
 		(pts
-			(xy 106.68 95.25) (xy 115.57 95.25)
+			(xy 76.2 95.25) (xy 115.57 95.25)
 		)
 		(stroke
 			(width 0)
@@ -202,16 +166,6 @@
 			(type default)
 		)
 		(uuid "f3f98819-f62c-461a-b369-105b3d8a727b")
-	)
-	(bus
-		(pts
-			(xy 111.76 50.8) (xy 111.76 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f832f31b-2561-41fe-88bd-b8f74d854cff")
 	)
 	(bus
 		(pts
@@ -331,16 +285,6 @@
 			)
 			(uuid "791f669a-8dee-4c1f-8dd5-c480b6601f02")
 		)
-		(pin "USB{+ -}" input
-			(at 118.11 86.36 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "29a2332c-0ffe-4c4a-8343-ff5bf1caab59")
-		)
 		(pin "CAN2{+ -}" input
 			(at 118.11 95.25 180)
 			(effects
@@ -360,6 +304,16 @@
 				(justify left)
 			)
 			(uuid "5d71a384-d006-494c-b7aa-30ff6713435f")
+		)
+		(pin "USB_DIN{USB}" input
+			(at 118.11 83.82 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "053757d7-5437-494b-8556-0e555a502faf")
 		)
 		(instances
 			(project "ModuCard-BreakoutBoard"
@@ -487,15 +441,15 @@
 				(justify left top)
 			)
 		)
-		(pin "USB{+ -}" input
-			(at 119.38 50.8 180)
+		(pin "USB_port{USB}" input
+			(at 119.38 55.88 180)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "4c851eec-4829-4d09-a9a5-cac4b048ccb8")
+			(uuid "28362739-ef4e-4eda-8b59-5e9d5545fb42")
 		)
 		(instances
 			(project "ModuCard-BreakoutBoard"
@@ -506,7 +460,7 @@
 		)
 	)
 	(sheet
-		(at 78.74 76.2)
+		(at 48.26 76.2)
 		(size 27.94 26.67)
 		(fields_autoplaced yes)
 		(stroke
@@ -518,7 +472,7 @@
 		)
 		(uuid "ce4dc3bf-630b-4901-b40c-5944ba5b7794")
 		(property "Sheetname" "RJ45"
-			(at 78.74 75.4884 0)
+			(at 48.26 75.4884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -527,7 +481,7 @@
 			)
 		)
 		(property "Sheetfile" "RJ45.kicad_sch"
-			(at 78.74 103.4546 0)
+			(at 48.26 103.4546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -535,18 +489,8 @@
 				(justify left top)
 			)
 		)
-		(pin "USB{+ -}" input
-			(at 106.68 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "3d47638b-4471-4f36-848b-75dc11165a68")
-		)
 		(pin "CAN2{+ -}" input
-			(at 106.68 95.25 0)
+			(at 76.2 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -556,7 +500,7 @@
 			(uuid "68a4414e-a8b3-4eae-b96c-74ee3d4f84a6")
 		)
 		(pin "CAN1{+ -}" input
-			(at 106.68 92.71 0)
+			(at 76.2 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -565,10 +509,58 @@
 			)
 			(uuid "da4e8778-5695-42c4-a503-2db3fdd949a3")
 		)
+		(pin "USB_RJ{USB}" input
+			(at 76.2 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4888bfea-45be-49f5-be3e-e099ae4ded41")
+		)
 		(instances
 			(project "ModuCard-BreakoutBoard"
 				(path "/31ac04e5-0b29-4cf4-90ae-9d7058f5ad37"
 					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.17 78.74)
+		(size 19.05 11.43)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "de99791e-eaa1-4efd-99af-4c7f1089cfc2")
+		(property "Sheetname" "USB_switch"
+			(at 90.17 78.0284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB_switch.kicad_sch"
+			(at 90.17 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ModuCard-BreakoutBoard"
+				(path "/31ac04e5-0b29-4cf4-90ae-9d7058f5ad37"
+					(page "8")
 				)
 			)
 		)
