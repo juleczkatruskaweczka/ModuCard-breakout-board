@@ -2638,7 +2638,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+5V"
+		(property "Value" "+5V standby"
 			(at 46.99 38.1 0)
 			(effects
 				(font
