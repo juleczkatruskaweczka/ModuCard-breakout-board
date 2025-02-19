@@ -1712,7 +1712,7 @@
 		)
 		(uuid "25de88e1-0929-4767-9030-8593245eea59")
 	)
-	(label "USB.+"
+	(label "USB_RJ.D+"
 		(at 186.69 48.26 0)
 		(effects
 			(font
@@ -1742,7 +1742,7 @@
 		)
 		(uuid "67ca906d-78fb-4b9e-996c-2fb72ab755c6")
 	)
-	(label "USB.+"
+	(label "USB_RJ.D+"
 		(at 160.02 106.68 0)
 		(effects
 			(font
@@ -1750,19 +1750,9 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "8a2e3dc7-9a3c-4f55-86aa-7e11cd28f054")
+		(uuid "a76aaf96-0554-4d7c-ac00-a47b9bcfa7ee")
 	)
-	(label "USB.-"
-		(at 160.02 109.22 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "954751f8-1a09-4168-b1db-0d0e85be414c")
-	)
-	(label "USB.-"
+	(label "USB_RJ.D-"
 		(at 186.69 50.8 0)
 		(effects
 			(font
@@ -1771,6 +1761,16 @@
 			(justify left bottom)
 		)
 		(uuid "a7c4b52e-dcfa-4088-af8e-e9503a37f106")
+	)
+	(label "USB_RJ.D-"
+		(at 160.02 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "aa954d3e-467b-4d9f-b92e-52a824284198")
 	)
 	(label "CAN2.+"
 		(at 161.29 114.3 0)
@@ -1834,7 +1834,7 @@
 		)
 		(uuid "a7cb6201-7761-4d49-bef9-52829e788bb8")
 	)
-	(hierarchical_label "USB{+ -}"
+	(hierarchical_label "USB_RJ{USB}"
 		(shape input)
 		(at 165.1 59.69 180)
 		(effects
