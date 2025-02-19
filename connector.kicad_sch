@@ -2506,18 +2506,6 @@
 		)
 		(uuid "97156c6e-122a-4a12-bee0-cc261678a1b1")
 	)
-	(text "RJ-45"
-		(exclude_from_sim no)
-		(at 60.198 95.25 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.254)
-				(bold yes)
-			)
-		)
-		(uuid "d6b6e455-59a8-4b4a-a25d-cb3c90e37005")
-	)
 	(label "GPIOR5"
 		(at 81.28 151.13 0)
 		(effects
