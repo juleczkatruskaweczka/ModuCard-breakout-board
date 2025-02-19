@@ -3439,6 +3439,16 @@
 		)
 		(uuid "f777a098-5f02-4977-98de-eff45a52f500")
 	)
+	(wire
+		(pts
+			(xy 81.28 39.37) (xy 83.82 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "000bee3f-9307-499a-ad98-ac7b1ff33a95")
+	)
 	(bus
 		(pts
 			(xy 81.28 95.25) (xy 81.28 97.79)
@@ -3468,16 +3478,6 @@
 			(type default)
 		)
 		(uuid "04304314-745f-4a81-b426-62fceb8202fe")
-	)
-	(wire
-		(pts
-			(xy 54.61 44.45) (xy 81.28 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07f5a791-d836-412c-86a8-61ca7c0729bf")
 	)
 	(wire
 		(pts
@@ -3571,6 +3571,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 48.26) (xy 83.82 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e5073bc-4c50-47b8-8193-dbdc6f1fa1dd")
+	)
+	(wire
+		(pts
 			(xy 213.36 36.83) (xy 163.83 36.83)
 		)
 		(stroke
@@ -3648,16 +3658,6 @@
 			(type default)
 		)
 		(uuid "26474562-b420-46db-ac88-e9784c5ad1d4")
-	)
-	(wire
-		(pts
-			(xy 60.96 46.99) (xy 81.28 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "283d9501-b8dd-4339-b14a-1546736bd3bb")
 	)
 	(wire
 		(pts
@@ -3861,6 +3861,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 44.45) (xy 81.28 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f69cbc3-36fe-4a39-b91f-6ce8a51309f2")
+	)
+	(wire
+		(pts
 			(xy 163.83 67.31) (xy 213.36 67.31)
 		)
 		(stroke
@@ -3871,6 +3881,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 39.37) (xy 81.28 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4087912f-41ef-43af-81e8-787a69c8dde1")
+	)
+	(wire
+		(pts
 			(xy 213.36 34.29) (xy 163.83 34.29)
 		)
 		(stroke
@@ -3878,6 +3898,16 @@
 			(type default)
 		)
 		(uuid "408dda2f-d9cc-42b4-a38d-8c4118b70b17")
+	)
+	(wire
+		(pts
+			(xy 60.96 41.91) (xy 60.96 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40ef3d04-cc83-43f3-a0dc-ab7eaba1de42")
 	)
 	(wire
 		(pts
@@ -3901,6 +3931,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 44.45) (xy 81.28 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "427b0d8e-c206-4309-8ba2-85410d69b19b")
+	)
+	(wire
+		(pts
 			(xy 120.65 102.87) (xy 133.35 102.87)
 		)
 		(stroke
@@ -3921,7 +3961,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 40.64) (xy 45.72 44.45)
+			(xy 45.72 44.45) (xy 45.72 48.26)
 		)
 		(stroke
 			(width 0)
@@ -3981,7 +4021,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 30.48) (xy 49.53 30.48)
+			(xy 45.72 34.29) (xy 49.53 34.29)
 		)
 		(stroke
 			(width 0)
@@ -4141,13 +4181,13 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 38.1) (xy 81.28 38.1)
+			(xy 83.82 39.37) (xy 83.82 36.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "612b1d4e-2e36-4def-8ed8-4a30fa5c9021")
+		(uuid "5fad9b63-fbfe-45be-b38d-cff9052f7176")
 	)
 	(wire
 		(pts
@@ -4218,6 +4258,16 @@
 			(type default)
 		)
 		(uuid "690e98c7-2b9d-4b5f-8a94-6c249cd165ef")
+	)
+	(wire
+		(pts
+			(xy 83.82 48.26) (xy 83.82 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69393a2a-2d45-4415-86b4-bdfdd2da190b")
 	)
 	(wire
 		(pts
@@ -4391,7 +4441,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 30.48) (xy 83.82 30.48)
+			(xy 57.15 34.29) (xy 83.82 34.29)
 		)
 		(stroke
 			(width 0)
@@ -4459,16 +4509,6 @@
 		)
 		(uuid "7ed70323-941e-43bf-a55b-0c871fa2569a")
 	)
-	(wire
-		(pts
-			(xy 60.96 40.64) (xy 60.96 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "828d2d7c-2639-456c-bd51-9c4e8e689e0e")
-	)
 	(bus
 		(pts
 			(xy 81.28 184.15) (xy 81.28 186.69)
@@ -4501,7 +4541,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 44.45) (xy 46.99 44.45)
+			(xy 45.72 48.26) (xy 46.99 48.26)
 		)
 		(stroke
 			(width 0)
@@ -4618,6 +4658,16 @@
 			(type default)
 		)
 		(uuid "a2c334b8-00ff-4084-a615-d38399165c8a")
+	)
+	(wire
+		(pts
+			(xy 81.28 41.91) (xy 83.82 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2c547b3-4b7c-4471-ad61-2de06a582845")
 	)
 	(wire
 		(pts
@@ -4881,7 +4931,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 38.1) (xy 45.72 30.48)
+			(xy 45.72 41.91) (xy 45.72 34.29)
 		)
 		(stroke
 			(width 0)
@@ -5111,16 +5161,6 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 38.1) (xy 81.28 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2b6039d-e63a-4b90-958e-3088195651c8")
-	)
-	(wire
-		(pts
 			(xy 133.35 100.33) (xy 83.82 100.33)
 		)
 		(stroke
@@ -5208,16 +5248,6 @@
 			(type default)
 		)
 		(uuid "ee4271a8-ac56-47b2-975e-6332c4dcfa0d")
-	)
-	(wire
-		(pts
-			(xy 83.82 30.48) (xy 83.82 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eef2117c-95eb-4b0a-b5d6-eb083b2fa6b3")
 	)
 	(wire
 		(pts
@@ -6429,7 +6459,7 @@
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Resistors:1206,120Ω")
-		(at 50.8 44.45 90)
+		(at 50.8 48.26 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6437,7 +6467,7 @@
 		(dnp no)
 		(uuid "3cbe8d5b-82ee-4dcd-831c-80872461672b")
 		(property "Reference" "R16"
-			(at 50.8 40.64 90)
+			(at 50.8 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6445,7 +6475,7 @@
 			)
 		)
 		(property "Value" "120Ω"
-			(at 50.8 44.45 90)
+			(at 50.8 48.26 90)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -6454,7 +6484,7 @@
 			)
 		)
 		(property "Footprint" "PCM_JLCPCB:R_1206"
-			(at 50.8 46.228 90)
+			(at 50.8 50.038 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6463,7 +6493,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1200T5E_C17909.pdf"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6472,7 +6502,7 @@
 			)
 		)
 		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/°C ±1% 120Ω 1206 Chip Resistor - Surface Mount ROHS"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6481,7 +6511,7 @@
 			)
 		)
 		(property "LCSC" "C17909"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6490,7 +6520,7 @@
 			)
 		)
 		(property "Stock" "514841"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6499,7 +6529,7 @@
 			)
 		)
 		(property "Price" "0.006USD"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6508,7 +6538,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6517,7 +6547,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6526,7 +6556,7 @@
 			)
 		)
 		(property "Attrition Qty" "10"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6535,7 +6565,7 @@
 			)
 		)
 		(property "Class" "Basic Component"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6544,7 +6574,7 @@
 			)
 		)
 		(property "Category" "Resistors,Chip Resistor - Surface Mount"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6553,7 +6583,7 @@
 			)
 		)
 		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6562,7 +6592,7 @@
 			)
 		)
 		(property "Part" "1206W4F1200T5E"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6571,7 +6601,7 @@
 			)
 		)
 		(property "Resistance" "120Ω"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6580,7 +6610,7 @@
 			)
 		)
 		(property "Power(Watts)" "250mW"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6589,7 +6619,7 @@
 			)
 		)
 		(property "Type" "Thick Film Resistors"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6598,7 +6628,7 @@
 			)
 		)
 		(property "Overload Voltage (Max)" "200V"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6607,7 +6637,7 @@
 			)
 		)
 		(property "Operating Temperature Range" "-55°C~+155°C"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6616,7 +6646,7 @@
 			)
 		)
 		(property "Tolerance" "±1%"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6625,7 +6655,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "±100ppm/°C"
-			(at 50.8 44.45 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6781,7 +6811,7 @@
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Resistors:1206,120Ω")
-		(at 53.34 30.48 90)
+		(at 53.34 34.29 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6790,7 +6820,7 @@
 		(fields_autoplaced yes)
 		(uuid "75b04615-1b41-47f1-9b72-dbe37c06a30a")
 		(property "Reference" "R15"
-			(at 53.34 26.67 90)
+			(at 53.34 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6798,7 +6828,7 @@
 			)
 		)
 		(property "Value" "120Ω"
-			(at 53.34 30.48 90)
+			(at 53.34 34.29 90)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -6807,7 +6837,7 @@
 			)
 		)
 		(property "Footprint" "PCM_JLCPCB:R_1206"
-			(at 53.34 32.258 90)
+			(at 53.34 36.068 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6816,7 +6846,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1200T5E_C17909.pdf"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6825,7 +6855,7 @@
 			)
 		)
 		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/°C ±1% 120Ω 1206 Chip Resistor - Surface Mount ROHS"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6834,7 +6864,7 @@
 			)
 		)
 		(property "LCSC" "C17909"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6843,7 +6873,7 @@
 			)
 		)
 		(property "Stock" "514841"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6852,7 +6882,7 @@
 			)
 		)
 		(property "Price" "0.006USD"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6861,7 +6891,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6870,7 +6900,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6879,7 +6909,7 @@
 			)
 		)
 		(property "Attrition Qty" "10"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6888,7 +6918,7 @@
 			)
 		)
 		(property "Class" "Basic Component"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6897,7 +6927,7 @@
 			)
 		)
 		(property "Category" "Resistors,Chip Resistor - Surface Mount"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6906,7 +6936,7 @@
 			)
 		)
 		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6915,7 +6945,7 @@
 			)
 		)
 		(property "Part" "1206W4F1200T5E"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6924,7 +6954,7 @@
 			)
 		)
 		(property "Resistance" "120Ω"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6933,7 +6963,7 @@
 			)
 		)
 		(property "Power(Watts)" "250mW"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6942,7 +6972,7 @@
 			)
 		)
 		(property "Type" "Thick Film Resistors"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6951,7 +6981,7 @@
 			)
 		)
 		(property "Overload Voltage (Max)" "200V"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6960,7 +6990,7 @@
 			)
 		)
 		(property "Operating Temperature Range" "-55°C~+155°C"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6969,7 +6999,7 @@
 			)
 		)
 		(property "Tolerance" "±1%"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6978,7 +7008,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "±100ppm/°C"
-			(at 53.34 30.48 0)
+			(at 53.34 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7461,7 +7491,7 @@
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Connectors_Buttons:DIP Switch x 2")
-		(at 53.34 40.64 0)
+		(at 53.34 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7469,7 +7499,7 @@
 		(dnp no)
 		(uuid "ace0d84c-a9af-43f3-8fa5-4e2287dc1d0c")
 		(property "Reference" "S1"
-			(at 56.642 34.798 0)
+			(at 56.642 38.608 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7477,7 +7507,7 @@
 			)
 		)
 		(property "Value" "DIP Switch x 2"
-			(at 53.34 33.02 0)
+			(at 53.34 36.83 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -7485,7 +7515,7 @@
 			)
 		)
 		(property "Footprint" "PCM_JLCPCB:SW-SMD_218-2LPSTRF"
-			(at 53.34 50.8 0)
+			(at 53.34 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7495,7 +7525,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2201251530_CTS-Electronic-Components-218-2LPSTR_C2961921.pdf"
-			(at 51.054 40.513 0)
+			(at 51.054 44.323 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7505,7 +7535,7 @@
 			)
 		)
 		(property "Description" "2 positions SPST 24V 25mA SMD-4P,3.7x5.8mm DIP Switches ROHS"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7514,7 +7544,7 @@
 			)
 		)
 		(property "LCSC" "C2961921"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7523,7 +7553,7 @@
 			)
 		)
 		(property "Stock" "154"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7532,7 +7562,7 @@
 			)
 		)
 		(property "Price" "0.863USD"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7541,7 +7571,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7550,7 +7580,7 @@
 			)
 		)
 		(property "Minimum Qty" "1"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7559,7 +7589,7 @@
 			)
 		)
 		(property "Attrition Qty" "0"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7568,7 +7598,7 @@
 			)
 		)
 		(property "Class" "Preferred Component"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7577,7 +7607,7 @@
 			)
 		)
 		(property "Category" "Key/Switch,DIP Switches"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7586,7 +7616,7 @@
 			)
 		)
 		(property "Manufacturer" "CTS Electronic Components"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7595,7 +7625,7 @@
 			)
 		)
 		(property "Part" "218-2LPSTR"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7604,7 +7634,7 @@
 			)
 		)
 		(property "Lead Pitch" "2.54mm"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7613,7 +7643,7 @@
 			)
 		)
 		(property "Circuit" "SPST"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7622,7 +7652,7 @@
 			)
 		)
 		(property "Current Rating" "25mA"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7631,7 +7661,7 @@
 			)
 		)
 		(property "Pin Style" "Solder Lug"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7640,7 +7670,7 @@
 			)
 		)
 		(property "Voltage Rating" "24V"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7649,7 +7679,7 @@
 			)
 		)
 		(property "Number Of Positions" "2Bit"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7658,7 +7688,7 @@
 			)
 		)
 		(property "Operating Temperature" "-55°C~+85°C"
-			(at 53.34 40.64 0)
+			(at 53.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
