@@ -6,36 +6,46 @@
 	(paper "A4")
 	(lib_symbols)
 	(junction
-		(at 111.76 92.71)
+		(at 115.57 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "60377b03-2cd9-4bcf-850e-d62a8ceb41ee")
+		(uuid "728edd1a-26ca-4bef-ae51-9ab6cac506d5")
 	)
 	(junction
-		(at 115.57 95.25)
+		(at 111.76 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a01d9f3a-79f0-4101-a4fd-d39e1258d276")
+		(uuid "94197a73-555c-4509-89c7-9a1ca8780c7e")
 	)
 	(bus
 		(pts
-			(xy 115.57 124.46) (xy 115.57 95.25)
+			(xy 109.22 87.63) (xy 118.11 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "130f7902-e91f-42b4-908f-caed15075c24")
+		(uuid "1f9b1ec3-fd69-4c14-9d1b-de104c8c4ede")
 	)
 	(bus
 		(pts
-			(xy 115.57 95.25) (xy 118.11 95.25)
+			(xy 76.2 97.79) (xy 115.57 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "205797d0-e67e-476a-8163-a9d029b7be25")
+	)
+	(bus
+		(pts
+			(xy 115.57 97.79) (xy 115.57 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47ec6e5c-80f3-4696-8c54-f772577cdd6b")
 	)
 	(bus
 		(pts
@@ -46,6 +56,16 @@
 			(type default)
 		)
 		(uuid "4aaa3097-d7ce-4785-a8c5-9f217519c802")
+	)
+	(bus
+		(pts
+			(xy 109.22 80.01) (xy 114.3 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51ef7c87-413f-4726-a904-1e2ddd2989ca")
 	)
 	(bus
 		(pts
@@ -97,6 +117,26 @@
 		)
 		(uuid "79f1cce7-6b8c-4b7a-919f-da8837368f09")
 	)
+	(wire
+		(pts
+			(xy 110.49 50.8) (xy 119.38 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7baf1ad2-6aa9-404f-be14-321e734ca110")
+	)
+	(wire
+		(pts
+			(xy 110.49 74.93) (xy 110.49 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84d6c834-a4cc-4cc2-9cdf-7a778a43ba9c")
+	)
 	(bus
 		(pts
 			(xy 118.11 124.46) (xy 115.57 124.46)
@@ -106,6 +146,16 @@
 			(type default)
 		)
 		(uuid "8a3f26de-1dae-425d-83c1-12258c6436e4")
+	)
+	(wire
+		(pts
+			(xy 109.22 74.93) (xy 110.49 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bce7a00-9a76-4bdc-bbca-2a88a2e3bcc6")
 	)
 	(bus
 		(pts
@@ -119,7 +169,7 @@
 	)
 	(bus
 		(pts
-			(xy 111.76 127) (xy 111.76 92.71)
+			(xy 111.76 127) (xy 111.76 95.25)
 		)
 		(stroke
 			(width 0)
@@ -129,7 +179,37 @@
 	)
 	(bus
 		(pts
-			(xy 76.2 92.71) (xy 111.76 92.71)
+			(xy 114.3 55.88) (xy 119.38 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b594f86a-b373-4c81-8f95-828473782465")
+	)
+	(bus
+		(pts
+			(xy 114.3 80.01) (xy 114.3 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8c76ac2-c926-4383-9245-1f888cd35dcf")
+	)
+	(bus
+		(pts
+			(xy 111.76 95.25) (xy 118.11 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba96b5c2-5e50-4f79-9dde-dc99cd4fbaa5")
+	)
+	(bus
+		(pts
+			(xy 76.2 95.25) (xy 111.76 95.25)
 		)
 		(stroke
 			(width 0)
@@ -139,13 +219,13 @@
 	)
 	(bus
 		(pts
-			(xy 76.2 95.25) (xy 115.57 95.25)
+			(xy 76.2 83.82) (xy 90.17 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d889247d-8e48-45d6-ab10-84be8f85c434")
+		(uuid "c04fae4c-8e41-4231-a4fb-45692fc029d9")
 	)
 	(bus
 		(pts
@@ -179,13 +259,13 @@
 	)
 	(bus
 		(pts
-			(xy 111.76 92.71) (xy 119.38 92.71)
+			(xy 115.57 97.79) (xy 118.11 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fa394604-a6df-4281-b203-c596315281e0")
+		(uuid "fb73bd24-087b-4d9d-83e8-a1156586dc07")
 	)
 	(sheet
 		(at 177.8 74.93)
@@ -286,7 +366,7 @@
 			(uuid "791f669a-8dee-4c1f-8dd5-c480b6601f02")
 		)
 		(pin "CAN2{+ -}" input
-			(at 118.11 95.25 180)
+			(at 118.11 97.79 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -296,7 +376,7 @@
 			(uuid "7dd1f87d-0a4c-4f0c-867a-838f681b14b6")
 		)
 		(pin "CAN1{+ -}" input
-			(at 118.11 92.71 180)
+			(at 118.11 95.25 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -305,15 +385,15 @@
 			)
 			(uuid "5d71a384-d006-494c-b7aa-30ff6713435f")
 		)
-		(pin "USB_DIN{USB}" input
-			(at 118.11 83.82 180)
+		(pin "USB_DIN{+ -}" input
+			(at 118.11 87.63 180)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "053757d7-5437-494b-8556-0e555a502faf")
+			(uuid "3f895c63-7f37-4144-bc7e-2af04861d95f")
 		)
 		(instances
 			(project "ModuCard-BreakoutBoard"
@@ -441,7 +521,7 @@
 				(justify left top)
 			)
 		)
-		(pin "USB_port{USB}" input
+		(pin "USB_port{+ -}" input
 			(at 119.38 55.88 180)
 			(effects
 				(font
@@ -449,7 +529,17 @@
 				)
 				(justify left)
 			)
-			(uuid "28362739-ef4e-4eda-8b59-5e9d5545fb42")
+			(uuid "044e813e-75f8-43b2-847e-4521a3834237")
+		)
+		(pin "VBUS_IN" input
+			(at 119.38 50.8 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "70dbcc31-a962-40f1-b3a2-8a4a46b76ee8")
 		)
 		(instances
 			(project "ModuCard-BreakoutBoard"
@@ -490,7 +580,7 @@
 			)
 		)
 		(pin "CAN2{+ -}" input
-			(at 76.2 95.25 0)
+			(at 76.2 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -500,7 +590,7 @@
 			(uuid "68a4414e-a8b3-4eae-b96c-74ee3d4f84a6")
 		)
 		(pin "CAN1{+ -}" input
-			(at 76.2 92.71 0)
+			(at 76.2 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -509,7 +599,7 @@
 			)
 			(uuid "da4e8778-5695-42c4-a503-2db3fdd949a3")
 		)
-		(pin "USB_RJ{USB}" input
+		(pin "USB_RJ{+ -}" input
 			(at 76.2 83.82 0)
 			(effects
 				(font
@@ -517,7 +607,7 @@
 				)
 				(justify right)
 			)
-			(uuid "4888bfea-45be-49f5-be3e-e099ae4ded41")
+			(uuid "806d65fe-6d17-471f-bb7c-3110b01b5a09")
 		)
 		(instances
 			(project "ModuCard-BreakoutBoard"
@@ -528,8 +618,8 @@
 		)
 	)
 	(sheet
-		(at 90.17 78.74)
-		(size 19.05 11.43)
+		(at 90.17 71.12)
+		(size 19.05 19.05)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -540,7 +630,7 @@
 		)
 		(uuid "de99791e-eaa1-4efd-99af-4c7f1089cfc2")
 		(property "Sheetname" "USB_switch"
-			(at 90.17 78.0284 0)
+			(at 90.17 70.4084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -556,6 +646,46 @@
 				)
 				(justify left top)
 			)
+		)
+		(pin "USB_DIN{+ -}" input
+			(at 109.22 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "24f6176e-ba57-457c-9563-c34dde7a2aab")
+		)
+		(pin "USB_port{+ -}" input
+			(at 109.22 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "60554fef-0c47-4b39-bc88-d52d54794cce")
+		)
+		(pin "USB_RJ{+ -}" input
+			(at 90.17 83.82 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1c3486c5-a550-46c0-aec6-014bf6f41591")
+		)
+		(pin "VBUS_IN" input
+			(at 109.22 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2b531e2e-e4c2-4a99-add9-69897ddf6947")
 		)
 		(instances
 			(project "ModuCard-BreakoutBoard"

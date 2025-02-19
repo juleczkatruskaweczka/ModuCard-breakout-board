@@ -2231,6 +2231,12 @@
 		)
 	)
 	(junction
+		(at 184.15 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a165656-c61a-4ce2-a440-03af40d79cb6")
+	)
+	(junction
 		(at 83.82 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2394,7 +2400,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 77.47) (xy 212.09 77.47)
+			(xy 152.4 77.47) (xy 184.15 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2484,6 +2490,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 77.47) (xy 212.09 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9be5f8ba-a619-475a-aecc-5a9bc6aa8834")
+	)
+	(wire
+		(pts
 			(xy 83.82 132.08) (xy 83.82 133.35)
 		)
 		(stroke
@@ -2501,6 +2517,16 @@
 			(type default)
 		)
 		(uuid "b7087073-bbf5-4beb-85dd-0dce143a3768")
+	)
+	(wire
+		(pts
+			(xy 184.15 77.47) (xy 184.15 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba89d47a-5198-4db8-ba92-fe7762b5356b")
 	)
 	(wire
 		(pts
@@ -2592,16 +2618,6 @@
 		)
 		(uuid "f41347f5-664a-4da6-86aa-001924a6de8d")
 	)
-	(bus
-		(pts
-			(xy 200.66 92.71) (xy 200.66 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8e33259-a6b2-4e98-8561-c27d29141d8b")
-	)
 	(wire
 		(pts
 			(xy 83.82 115.57) (xy 83.82 123.19)
@@ -2646,7 +2662,7 @@
 		)
 		(uuid "5389892a-6be7-456b-85ea-40f2f4413117")
 	)
-	(label "USB_port.D+"
+	(label "USB_port.+"
 		(at 186.69 97.79 0)
 		(effects
 			(font
@@ -2676,7 +2692,7 @@
 		)
 		(uuid "9044f48c-c1cb-49f2-a398-723a77df00b8")
 	)
-	(label "USB_port.D-"
+	(label "USB_port.-"
 		(at 186.69 92.71 0)
 		(effects
 			(font
@@ -2686,7 +2702,18 @@
 		)
 		(uuid "c53a17c3-d876-4a2a-9b24-ffccf67fb8c7")
 	)
-	(hierarchical_label "USB_port{USB}"
+	(hierarchical_label "VBUS_IN"
+		(shape input)
+		(at 184.15 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "44e7fdc8-ca8f-4392-8f6b-d0386b1e0dc9")
+	)
+	(hierarchical_label "USB_port{+ -}"
 		(shape input)
 		(at 203.2 104.14 0)
 		(effects
