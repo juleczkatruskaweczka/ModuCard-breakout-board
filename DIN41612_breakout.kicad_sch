@@ -7512,7 +7512,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:SW-SMD_218-2LPSTRF"
+		(property "Footprint" "Button_Switch_THT:SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm"
 			(at 53.34 54.61 0)
 			(effects
 				(font
