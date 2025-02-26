@@ -2963,7 +2963,16 @@
 		(uuid "347a1b44-e5c5-4f05-9c08-0f3b4295c36e")
 	)
 	(bus_entry
-		(at 228.6 129.54)
+		(at 210.82 129.54)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35b651b7-5c13-4d16-ae80-a68a58ec81f7")
+	)
+	(bus_entry
+		(at 251.46 78.74)
 		(size 2.54 -2.54)
 		(stroke
 			(width 0)
@@ -3024,6 +3033,15 @@
 			(type default)
 		)
 		(uuid "4879a612-ddfc-4ed9-b613-975c2feba034")
+	)
+	(bus_entry
+		(at 212.09 143.51)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ba3a8f3-5530-42fe-83f9-4f6e1fd9b307")
 	)
 	(bus_entry
 		(at 83.82 148.59)
@@ -3152,7 +3170,16 @@
 		(uuid "8e020afb-a41a-43e0-b081-19fcd87f8c8e")
 	)
 	(bus_entry
-		(at 228.6 132.08)
+		(at 210.82 132.08)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90e25d1d-e60c-46d8-9bbc-723a5a0a6a7c")
+	)
+	(bus_entry
+		(at 251.46 81.28)
 		(size 2.54 -2.54)
 		(stroke
 			(width 0)
@@ -3431,6 +3458,15 @@
 		(uuid "f2ee6011-5b78-428d-94da-5cc6de1a94b3")
 	)
 	(bus_entry
+		(at 212.09 146.05)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f41efd34-6bdf-44f7-9aa9-2dd4a4929329")
+	)
+	(bus_entry
 		(at 83.82 69.85)
 		(size -2.54 2.54)
 		(stroke
@@ -3438,16 +3474,6 @@
 			(type default)
 		)
 		(uuid "f777a098-5f02-4977-98de-eff45a52f500")
-	)
-	(wire
-		(pts
-			(xy 81.28 39.37) (xy 83.82 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "000bee3f-9307-499a-ad98-ac7b1ff33a95")
 	)
 	(bus
 		(pts
@@ -3478,6 +3504,26 @@
 			(type default)
 		)
 		(uuid "04304314-745f-4a81-b426-62fceb8202fe")
+	)
+	(bus
+		(pts
+			(xy 201.93 137.16) (xy 210.82 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04daf3f9-0b3f-4ea7-9dbc-b9c04204964a")
+	)
+	(wire
+		(pts
+			(xy 242.57 129.54) (xy 242.57 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04e4140a-f9a6-47ac-9edd-ea77a47f1337")
 	)
 	(wire
 		(pts
@@ -3539,6 +3585,16 @@
 		)
 		(uuid "14eaaf48-bbc5-4c76-b43b-bc5a47f3d1d4")
 	)
+	(bus
+		(pts
+			(xy 212.09 146.05) (xy 212.09 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14f99117-d0ad-44af-b6e1-c2c0125baf39")
+	)
 	(wire
 		(pts
 			(xy 83.82 128.27) (xy 133.35 128.27)
@@ -3568,16 +3624,6 @@
 			(type default)
 		)
 		(uuid "1a5d2815-fa1a-4c3f-a9c9-dfe8cb8ed531")
-	)
-	(wire
-		(pts
-			(xy 54.61 48.26) (xy 83.82 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e5073bc-4c50-47b8-8193-dbdc6f1fa1dd")
 	)
 	(wire
 		(pts
@@ -3709,6 +3755,16 @@
 		)
 		(uuid "2e6f1ca7-cb05-4212-b8b5-bc41ccc44b27")
 	)
+	(bus
+		(pts
+			(xy 210.82 129.54) (xy 210.82 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2eed7571-bc4c-428c-8bef-6973e844013d")
+	)
 	(wire
 		(pts
 			(xy 163.83 64.77) (xy 213.36 64.77)
@@ -3718,6 +3774,16 @@
 			(type default)
 		)
 		(uuid "2ffbd242-0c9f-404a-988c-c459ff7e4617")
+	)
+	(wire
+		(pts
+			(xy 214.63 140.97) (xy 234.95 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3017d49a-839d-46dd-8ae4-7789c11be56e")
 	)
 	(wire
 		(pts
@@ -3741,6 +3807,16 @@
 	)
 	(bus
 		(pts
+			(xy 210.82 132.08) (xy 210.82 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34729628-9df4-4f0c-a302-875ff16c22d2")
+	)
+	(bus
+		(pts
 			(xy 223.52 49.53) (xy 215.9 49.53)
 		)
 		(stroke
@@ -3748,6 +3824,16 @@
 			(type default)
 		)
 		(uuid "34aaebda-bc17-4881-b6ae-c44e160a5a88")
+	)
+	(wire
+		(pts
+			(xy 213.36 127) (xy 259.08 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3508839d-2e81-4ddf-a0c7-1df3aec2469e")
 	)
 	(bus
 		(pts
@@ -3831,16 +3917,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 44.45) (xy 81.28 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f69cbc3-36fe-4a39-b91f-6ce8a51309f2")
-	)
-	(wire
-		(pts
 			(xy 163.83 67.31) (xy 213.36 67.31)
 		)
 		(stroke
@@ -3848,16 +3924,6 @@
 			(type default)
 		)
 		(uuid "3fdabf26-fc3a-4371-8bfe-2abbd6c2f246")
-	)
-	(wire
-		(pts
-			(xy 60.96 39.37) (xy 81.28 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4087912f-41ef-43af-81e8-787a69c8dde1")
 	)
 	(wire
 		(pts
@@ -3871,7 +3937,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 41.91) (xy 60.96 39.37)
+			(xy 259.08 127) (xy 259.08 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3901,16 +3967,6 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 44.45) (xy 81.28 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "427b0d8e-c206-4309-8ba2-85410d69b19b")
-	)
-	(wire
-		(pts
 			(xy 120.65 102.87) (xy 133.35 102.87)
 		)
 		(stroke
@@ -3931,7 +3987,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 44.45) (xy 45.72 48.26)
+			(xy 242.57 137.16) (xy 242.57 140.97)
 		)
 		(stroke
 			(width 0)
@@ -3988,16 +4044,6 @@
 			(type default)
 		)
 		(uuid "4b8e2830-f2a8-4653-8f6d-a4c52dece086")
-	)
-	(wire
-		(pts
-			(xy 45.72 34.29) (xy 49.53 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c011796-80ca-4685-844b-b3bf9ebbe2fa")
 	)
 	(wire
 		(pts
@@ -4151,16 +4197,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 39.37) (xy 83.82 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5fad9b63-fbfe-45be-b38d-cff9052f7176")
-	)
-	(wire
-		(pts
 			(xy 133.35 181.61) (xy 83.82 181.61)
 		)
 		(stroke
@@ -4178,6 +4214,16 @@
 			(type default)
 		)
 		(uuid "6296ae58-339f-40e0-8909-9aaa1a7d3298")
+	)
+	(wire
+		(pts
+			(xy 213.36 129.54) (xy 234.95 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "651719a0-3db7-46ce-8676-95a57ec53294")
 	)
 	(wire
 		(pts
@@ -4228,16 +4274,6 @@
 			(type default)
 		)
 		(uuid "690e98c7-2b9d-4b5f-8a94-6c249cd165ef")
-	)
-	(wire
-		(pts
-			(xy 83.82 48.26) (xy 83.82 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "69393a2a-2d45-4415-86b4-bdfdd2da190b")
 	)
 	(wire
 		(pts
@@ -4411,16 +4447,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 34.29) (xy 83.82 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79862384-506d-490a-87d3-a89526c7630e")
-	)
-	(wire
-		(pts
 			(xy 213.36 41.91) (xy 163.83 41.91)
 		)
 		(stroke
@@ -4481,6 +4507,16 @@
 	)
 	(bus
 		(pts
+			(xy 212.09 143.51) (xy 212.09 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8796deeb-ea3c-4db9-88bb-97700e4e9f3c")
+	)
+	(bus
+		(pts
 			(xy 81.28 184.15) (xy 81.28 186.69)
 		)
 		(stroke
@@ -4508,16 +4544,6 @@
 			(type default)
 		)
 		(uuid "8b9c1115-1787-4610-aa44-76eff0722944")
-	)
-	(wire
-		(pts
-			(xy 45.72 48.26) (xy 46.99 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8eeed28f-e38c-4c1f-b7ae-42307bdd35c1")
 	)
 	(wire
 		(pts
@@ -4631,16 +4657,6 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 41.91) (xy 83.82 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a2c547b3-4b7c-4471-ad61-2de06a582845")
-	)
-	(wire
-		(pts
 			(xy 120.65 102.87) (xy 120.65 107.95)
 		)
 		(stroke
@@ -4658,6 +4674,16 @@
 			(type default)
 		)
 		(uuid "a518389c-141b-4bd5-ba3d-fda54d6925d5")
+	)
+	(wire
+		(pts
+			(xy 242.57 137.16) (xy 243.84 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a54b2f9e-0444-462c-b19c-90dec7a9587a")
 	)
 	(bus
 		(pts
@@ -4771,7 +4797,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 129.54) (xy 231.14 129.54)
+			(xy 275.59 78.74) (xy 254 78.74)
 		)
 		(stroke
 			(width 0)
@@ -4911,13 +4937,13 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 41.91) (xy 45.72 34.29)
+			(xy 242.57 134.62) (xy 243.84 134.62)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c66a0ef8-1871-44e2-92eb-f86c2bd48229")
+		(uuid "c5a01763-a1ba-4d41-bb42-e7009a09e2f4")
 	)
 	(wire
 		(pts
@@ -4971,7 +4997,7 @@
 	)
 	(bus
 		(pts
-			(xy 220.98 139.7) (xy 228.6 139.7)
+			(xy 243.84 88.9) (xy 251.46 88.9)
 		)
 		(stroke
 			(width 0)
@@ -5129,6 +5155,26 @@
 		)
 		(uuid "db8c6242-d094-44cf-bd5d-280d0502c9f0")
 	)
+	(bus
+		(pts
+			(xy 201.93 151.13) (xy 212.09 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbbd3c35-af44-4860-ac0a-c77102c6b924")
+	)
+	(wire
+		(pts
+			(xy 259.08 137.16) (xy 259.08 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df248d0b-0d35-4d91-8343-6fb1eac68f3f")
+	)
 	(wire
 		(pts
 			(xy 83.82 41.91) (xy 133.35 41.91)
@@ -5171,7 +5217,7 @@
 	)
 	(bus
 		(pts
-			(xy 228.6 132.08) (xy 228.6 139.7)
+			(xy 251.46 81.28) (xy 251.46 88.9)
 		)
 		(stroke
 			(width 0)
@@ -5208,6 +5254,16 @@
 			(type default)
 		)
 		(uuid "ec2f07e7-e485-4658-8995-f71f40d80d8d")
+	)
+	(wire
+		(pts
+			(xy 214.63 143.51) (xy 259.08 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed39424c-26ee-4687-8bc9-1e44e5bdc467")
 	)
 	(wire
 		(pts
@@ -5251,7 +5307,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 127) (xy 231.14 127)
+			(xy 275.59 76.2) (xy 254 76.2)
 		)
 		(stroke
 			(width 0)
@@ -5291,7 +5347,7 @@
 	)
 	(bus
 		(pts
-			(xy 228.6 129.54) (xy 228.6 132.08)
+			(xy 251.46 78.74) (xy 251.46 81.28)
 		)
 		(stroke
 			(width 0)
@@ -5340,8 +5396,20 @@
 		(uuid "fce9fff6-d8a7-4cd2-b414-c34562812740")
 	)
 	(rectangle
-		(start 191.77 115.57)
-		(end 262.89 151.13)
+		(start 179.07 118.11)
+		(end 267.97 161.29)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 7fd5f314-b17d-495b-91a0-42c4a4d1daee)
+	)
+	(rectangle
+		(start 226.06 64.77)
+		(end 279.4 93.98)
 		(stroke
 			(width 0)
 			(type default)
@@ -5351,9 +5419,21 @@
 		)
 		(uuid b43d9efa-46fc-44ff-8310-a48d442d6314)
 	)
+	(text "CAN"
+		(exclude_from_sim no)
+		(at 186.182 122.936 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "3e00bdd9-2800-4b7a-bb9e-2cbabf105f17")
+	)
 	(text "USB"
 		(exclude_from_sim no)
-		(at 197.104 119.888 0)
+		(at 232.918 68.326 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -5413,6 +5493,16 @@
 			(justify left bottom)
 		)
 		(uuid "0a5df1eb-14b7-4ee1-a0b0-c20156e30938")
+	)
+	(label "CAN2.+"
+		(at 224.79 143.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "10df57ae-87ba-4147-89b9-1749c8028619")
 	)
 	(label "GPIOL14"
 		(at 95.25 97.79 0)
@@ -5557,6 +5647,16 @@
 		)
 		(uuid "45a9705d-7711-4ecc-a7dc-c0e1b3c8900e")
 	)
+	(label "CAN1.+"
+		(at 223.52 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "481749da-0e9a-4269-8dba-afec8002bfba")
+	)
 	(label "GPIOR7"
 		(at 195.58 80.01 0)
 		(effects
@@ -5692,6 +5792,16 @@
 		)
 		(uuid "827bd74d-2b15-47f4-bfa7-986dae02505c")
 	)
+	(label "CAN1.-"
+		(at 223.52 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "85ffce77-68c6-45ba-993a-ff55a8a5521e")
+	)
 	(label "GPIOL0"
 		(at 95.25 62.23 0)
 		(effects
@@ -5804,7 +5914,7 @@
 		(uuid "a30bbdae-6daa-4373-8bb5-3e4bb8f2548e")
 	)
 	(label "USB_DIN.+"
-		(at 252.73 127 180)
+		(at 275.59 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5935,6 +6045,16 @@
 		)
 		(uuid "dfd2eada-0927-4f39-9790-2545b9720f8d")
 	)
+	(label "CAN2.-"
+		(at 224.79 140.97 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dfe499ed-abbe-4a6d-89a0-9f76c600b3db")
+	)
 	(label "GPIOC11"
 		(at 95.25 173.99 0)
 		(effects
@@ -5977,7 +6097,7 @@
 		(uuid "ea5457d6-421a-475a-b65d-0cd1546109e2")
 	)
 	(label "USB_DIN.-"
-		(at 252.73 129.54 180)
+		(at 275.59 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6071,9 +6191,20 @@
 		)
 		(uuid "48848498-4920-4159-99ed-3363ba1e06e0")
 	)
+	(hierarchical_label "CAN1{+ -}"
+		(shape input)
+		(at 201.93 137.16 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4c025b5a-3ee4-40ad-b313-3aa68cf4bbb5")
+	)
 	(hierarchical_label "USB_DIN{+ -}"
 		(shape input)
-		(at 220.98 139.7 180)
+		(at 243.84 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6103,6 +6234,17 @@
 			(justify left)
 		)
 		(uuid "bc42408f-5b31-4101-bbe6-a7c04da24bd4")
+	)
+	(hierarchical_label "CAN2{+ -}"
+		(shape input)
+		(at 201.93 151.13 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c5bb6fdf-06a4-479d-9aa8-f561b6862a2a")
 	)
 	(hierarchical_label "GPIOL[0..15]"
 		(shape input)
@@ -6457,7 +6599,7 @@
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Resistors:1206,120Ω")
-		(at 50.8 48.26 90)
+		(at 238.76 140.97 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6465,7 +6607,7 @@
 		(dnp no)
 		(uuid "3cbe8d5b-82ee-4dcd-831c-80872461672b")
 		(property "Reference" "R16"
-			(at 50.8 44.45 90)
+			(at 238.76 144.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6473,7 +6615,7 @@
 			)
 		)
 		(property "Value" "120Ω"
-			(at 50.8 48.26 90)
+			(at 238.76 140.97 90)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -6482,7 +6624,7 @@
 			)
 		)
 		(property "Footprint" "PCM_JLCPCB:R_1206"
-			(at 50.8 50.038 90)
+			(at 238.76 139.192 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6491,7 +6633,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1200T5E_C17909.pdf"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6500,7 +6642,7 @@
 			)
 		)
 		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/°C ±1% 120Ω 1206 Chip Resistor - Surface Mount ROHS"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6509,7 +6651,7 @@
 			)
 		)
 		(property "LCSC" "C17909"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6518,7 +6660,7 @@
 			)
 		)
 		(property "Stock" "514841"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6527,7 +6669,7 @@
 			)
 		)
 		(property "Price" "0.006USD"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6536,7 +6678,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6545,7 +6687,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6554,7 +6696,7 @@
 			)
 		)
 		(property "Attrition Qty" "10"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6563,7 +6705,7 @@
 			)
 		)
 		(property "Class" "Basic Component"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6572,7 +6714,7 @@
 			)
 		)
 		(property "Category" "Resistors,Chip Resistor - Surface Mount"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6581,7 +6723,7 @@
 			)
 		)
 		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6590,7 +6732,7 @@
 			)
 		)
 		(property "Part" "1206W4F1200T5E"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6599,7 +6741,7 @@
 			)
 		)
 		(property "Resistance" "120Ω"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6608,7 +6750,7 @@
 			)
 		)
 		(property "Power(Watts)" "250mW"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6617,7 +6759,7 @@
 			)
 		)
 		(property "Type" "Thick Film Resistors"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6626,7 +6768,7 @@
 			)
 		)
 		(property "Overload Voltage (Max)" "200V"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6635,7 +6777,7 @@
 			)
 		)
 		(property "Operating Temperature Range" "-55°C~+155°C"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6644,7 +6786,7 @@
 			)
 		)
 		(property "Tolerance" "±1%"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6653,7 +6795,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "±100ppm/°C"
-			(at 50.8 48.26 0)
+			(at 238.76 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6809,7 +6951,7 @@
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Resistors:1206,120Ω")
-		(at 53.34 34.29 90)
+		(at 238.76 129.54 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6818,7 +6960,7 @@
 		(fields_autoplaced yes)
 		(uuid "75b04615-1b41-47f1-9b72-dbe37c06a30a")
 		(property "Reference" "R15"
-			(at 53.34 30.48 90)
+			(at 238.76 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6826,7 +6968,7 @@
 			)
 		)
 		(property "Value" "120Ω"
-			(at 53.34 34.29 90)
+			(at 238.76 129.54 90)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -6835,7 +6977,7 @@
 			)
 		)
 		(property "Footprint" "PCM_JLCPCB:R_1206"
-			(at 53.34 36.068 90)
+			(at 238.76 127.762 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6844,7 +6986,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1200T5E_C17909.pdf"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6853,7 +6995,7 @@
 			)
 		)
 		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/°C ±1% 120Ω 1206 Chip Resistor - Surface Mount ROHS"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6862,7 +7004,7 @@
 			)
 		)
 		(property "LCSC" "C17909"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6871,7 +7013,7 @@
 			)
 		)
 		(property "Stock" "514841"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6880,7 +7022,7 @@
 			)
 		)
 		(property "Price" "0.006USD"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6889,7 +7031,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6898,7 +7040,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6907,7 +7049,7 @@
 			)
 		)
 		(property "Attrition Qty" "10"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6916,7 +7058,7 @@
 			)
 		)
 		(property "Class" "Basic Component"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6925,7 +7067,7 @@
 			)
 		)
 		(property "Category" "Resistors,Chip Resistor - Surface Mount"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6934,7 +7076,7 @@
 			)
 		)
 		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6943,7 +7085,7 @@
 			)
 		)
 		(property "Part" "1206W4F1200T5E"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6952,7 +7094,7 @@
 			)
 		)
 		(property "Resistance" "120Ω"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6961,7 +7103,7 @@
 			)
 		)
 		(property "Power(Watts)" "250mW"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6970,7 +7112,7 @@
 			)
 		)
 		(property "Type" "Thick Film Resistors"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6979,7 +7121,7 @@
 			)
 		)
 		(property "Overload Voltage (Max)" "200V"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6988,7 +7130,7 @@
 			)
 		)
 		(property "Operating Temperature Range" "-55°C~+155°C"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6997,7 +7139,7 @@
 			)
 		)
 		(property "Tolerance" "±1%"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7006,7 +7148,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "±100ppm/°C"
-			(at 53.34 34.29 0)
+			(at 238.76 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7489,7 +7631,7 @@
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Connectors_Buttons:DIP Switch x 2")
-		(at 53.34 44.45 0)
+		(at 251.46 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7497,7 +7639,7 @@
 		(dnp no)
 		(uuid "ace0d84c-a9af-43f3-8fa5-4e2287dc1d0c")
 		(property "Reference" "S1"
-			(at 56.642 38.608 0)
+			(at 254.762 131.318 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7505,7 +7647,7 @@
 			)
 		)
 		(property "Value" "DIP Switch x 2"
-			(at 53.34 36.83 0)
+			(at 251.46 129.54 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -7513,7 +7655,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_THT:SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm"
-			(at 53.34 54.61 0)
+			(at 251.46 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7523,7 +7665,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2201251530_CTS-Electronic-Components-218-2LPSTR_C2961921.pdf"
-			(at 51.054 44.323 0)
+			(at 249.174 137.033 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7533,7 +7675,7 @@
 			)
 		)
 		(property "Description" "2 positions SPST 24V 25mA SMD-4P,3.7x5.8mm DIP Switches ROHS"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7542,7 +7684,7 @@
 			)
 		)
 		(property "LCSC" "C2961921"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7551,7 +7693,7 @@
 			)
 		)
 		(property "Stock" "154"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7560,7 +7702,7 @@
 			)
 		)
 		(property "Price" "0.863USD"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7569,7 +7711,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7578,7 +7720,7 @@
 			)
 		)
 		(property "Minimum Qty" "1"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7587,7 +7729,7 @@
 			)
 		)
 		(property "Attrition Qty" "0"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7596,7 +7738,7 @@
 			)
 		)
 		(property "Class" "Preferred Component"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7605,7 +7747,7 @@
 			)
 		)
 		(property "Category" "Key/Switch,DIP Switches"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7614,7 +7756,7 @@
 			)
 		)
 		(property "Manufacturer" "CTS Electronic Components"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7623,7 +7765,7 @@
 			)
 		)
 		(property "Part" "218-2LPSTR"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7632,7 +7774,7 @@
 			)
 		)
 		(property "Lead Pitch" "2.54mm"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7641,7 +7783,7 @@
 			)
 		)
 		(property "Circuit" "SPST"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7650,7 +7792,7 @@
 			)
 		)
 		(property "Current Rating" "25mA"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7659,7 +7801,7 @@
 			)
 		)
 		(property "Pin Style" "Solder Lug"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7668,7 +7810,7 @@
 			)
 		)
 		(property "Voltage Rating" "24V"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7677,7 +7819,7 @@
 			)
 		)
 		(property "Number Of Positions" "2Bit"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7686,7 +7828,7 @@
 			)
 		)
 		(property "Operating Temperature" "-55°C~+85°C"
-			(at 53.34 44.45 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
