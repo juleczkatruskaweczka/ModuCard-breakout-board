@@ -2367,7 +2367,7 @@
 				)
 			)
 		)
-		(symbol "PCM_JLCPCB-Resistors:1206,120Ω"
+		(symbol "PCM_JLCPCB-Resistors:0603,120Ω"
 			(pin_numbers hide)
 			(pin_names
 				(offset 0)
@@ -2393,7 +2393,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_JLCPCB:R_1206"
+			(property "Footprint" "PCM_JLCPCB:R_0603"
 				(at -1.778 0 90)
 				(effects
 					(font
@@ -2402,7 +2402,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1200T5E_C17909.pdf"
+			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1200T5E_C22787.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2411,7 +2411,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "250mW Thick Film Resistors 200V ±100ppm/°C ±1% 120Ω 1206 Chip Resistor - Surface Mount ROHS"
+			(property "Description" "100mW Thick Film Resistors 75V ±100ppm/°C ±1% 120Ω 0603 Chip Resistor - Surface Mount ROHS"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2420,7 +2420,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC" "C17909"
+			(property "LCSC" "C22787"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2429,7 +2429,7 @@
 					(hide yes)
 				)
 			)
-			(property "Stock" "514841"
+			(property "Stock" "765937"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2438,7 +2438,7 @@
 					(hide yes)
 				)
 			)
-			(property "Price" "0.006USD"
+			(property "Price" "0.004USD"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2501,7 +2501,7 @@
 					(hide yes)
 				)
 			)
-			(property "Part" "1206W4F1200T5E"
+			(property "Part" "0603WAF1200T5E"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2519,7 +2519,7 @@
 					(hide yes)
 				)
 			)
-			(property "Power(Watts)" "250mW"
+			(property "Power(Watts)" "100mW"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2537,7 +2537,7 @@
 					(hide yes)
 				)
 			)
-			(property "Overload Voltage (Max)" "200V"
+			(property "Overload Voltage (Max)" "75V"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2582,7 +2582,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "1206,120Ω_0_1"
+			(symbol "0603,120Ω_0_1"
 				(rectangle
 					(start -1.016 2.54)
 					(end 1.016 -2.54)
@@ -2595,7 +2595,7 @@
 					)
 				)
 			)
-			(symbol "1206,120Ω_1_1"
+			(symbol "0603,120Ω_1_1"
 				(pin passive line
 					(at 0 3.81 270)
 					(length 1.27)
@@ -6598,227 +6598,6 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_JLCPCB-Resistors:1206,120Ω")
-		(at 238.76 140.97 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3cbe8d5b-82ee-4dcd-831c-80872461672b")
-		(property "Reference" "R16"
-			(at 238.76 144.78 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "120Ω"
-			(at 238.76 140.97 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 0.8 0.8)
-				)
-			)
-		)
-		(property "Footprint" "PCM_JLCPCB:R_1206"
-			(at 238.76 139.192 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1200T5E_C17909.pdf"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/°C ±1% 120Ω 1206 Chip Resistor - Surface Mount ROHS"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C17909"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Stock" "514841"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" "0.006USD"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Process" "SMT"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Minimum Qty" "20"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Attrition Qty" "10"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Class" "Basic Component"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Category" "Resistors,Chip Resistor - Surface Mount"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part" "1206W4F1200T5E"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Resistance" "120Ω"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Power(Watts)" "250mW"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" "Thick Film Resistors"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Overload Voltage (Max)" "200V"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Operating Temperature Range" "-55°C~+155°C"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "±1%"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Temperature Coefficient" "±100ppm/°C"
-			(at 238.76 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8201a2d9-85c2-4bde-b685-96958028a58b")
-		)
-		(pin "1"
-			(uuid "f768722a-2783-4303-870e-d492a199df78")
-		)
-		(instances
-			(project "ModuCard-BreakoutBoard"
-				(path "/31ac04e5-0b29-4cf4-90ae-9d7058f5ad37/5a7295cb-e95a-4ca1-9c0d-5c618531111e"
-					(reference "R16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 180.34 31.75 0)
 		(mirror y)
@@ -6950,15 +6729,302 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_JLCPCB-Resistors:1206,120Ω")
-		(at 238.76 129.54 270)
+		(lib_id "power:GND")
+		(at 120.65 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "77b243e3-87db-4ae3-bc43-92549fadc3eb")
+		(property "Reference" "#PWR049"
+			(at 120.65 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 117.856 124.714 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 120.65 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 120.65 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 120.65 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "36a3fe14-2cc2-48e5-b0a1-86585c193cbb")
+		)
+		(instances
+			(project "ModuCard-BreakoutBoard"
+				(path "/31ac04e5-0b29-4cf4-90ae-9d7058f5ad37/5a7295cb-e95a-4ca1-9c0d-5c618531111e"
+					(reference "#PWR049")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_JLCPCB-Resistors:0603,120Ω")
+		(at 238.76 140.97 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "75b04615-1b41-47f1-9b72-dbe37c06a30a")
+		(uuid "785127f2-2c2d-42e4-aa7e-aa4fdc2ef4a3")
+		(property "Reference" "R16"
+			(at 238.76 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "120Ω"
+			(at 238.76 140.97 90)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:R_0603"
+			(at 238.76 142.748 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1200T5E_C22787.pdf"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/°C ±1% 120Ω 0603 Chip Resistor - Surface Mount ROHS"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C22787"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stock" "765937"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.004USD"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Process" "SMT"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Minimum Qty" "20"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Attrition Qty" "10"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Class" "Basic Component"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Resistors,Chip Resistor - Surface Mount"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part" "0603WAF1200T5E"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Resistance" "120Ω"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power(Watts)" "100mW"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Thick Film Resistors"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Overload Voltage (Max)" "75V"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Operating Temperature Range" "-55°C~+155°C"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±1%"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" "±100ppm/°C"
+			(at 238.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4f40415d-a692-443e-8e27-617a35b49756")
+		)
+		(pin "2"
+			(uuid "ae7d708a-f836-4d63-a0d2-32631c1bf142")
+		)
+		(instances
+			(project "ModuCard-BreakoutBoard"
+				(path "/31ac04e5-0b29-4cf4-90ae-9d7058f5ad37/5a7295cb-e95a-4ca1-9c0d-5c618531111e"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_JLCPCB-Resistors:0603,120Ω")
+		(at 238.76 129.54 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "877971fb-9ce4-4575-9eaa-10911bfe1e2d")
 		(property "Reference" "R15"
 			(at 238.76 125.73 90)
 			(effects
@@ -6976,8 +7042,8 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:R_1206"
-			(at 238.76 127.762 90)
+		(property "Footprint" "PCM_JLCPCB:R_0603"
+			(at 238.76 131.318 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6985,7 +7051,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1200T5E_C17909.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1200T5E_C22787.pdf"
 			(at 238.76 129.54 0)
 			(effects
 				(font
@@ -6994,7 +7060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "250mW Thick Film Resistors 200V ±100ppm/°C ±1% 120Ω 1206 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/°C ±1% 120Ω 0603 Chip Resistor - Surface Mount ROHS"
 			(at 238.76 129.54 0)
 			(effects
 				(font
@@ -7003,7 +7069,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17909"
+		(property "LCSC" "C22787"
 			(at 238.76 129.54 0)
 			(effects
 				(font
@@ -7012,7 +7078,7 @@
 				(hide yes)
 			)
 		)
-		(property "Stock" "514841"
+		(property "Stock" "765937"
 			(at 238.76 129.54 0)
 			(effects
 				(font
@@ -7021,7 +7087,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "0.006USD"
+		(property "Price" "0.004USD"
 			(at 238.76 129.54 0)
 			(effects
 				(font
@@ -7084,7 +7150,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "1206W4F1200T5E"
+		(property "Part" "0603WAF1200T5E"
 			(at 238.76 129.54 0)
 			(effects
 				(font
@@ -7102,7 +7168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Power(Watts)" "250mW"
+		(property "Power(Watts)" "100mW"
 			(at 238.76 129.54 0)
 			(effects
 				(font
@@ -7120,7 +7186,7 @@
 				(hide yes)
 			)
 		)
-		(property "Overload Voltage (Max)" "200V"
+		(property "Overload Voltage (Max)" "75V"
 			(at 238.76 129.54 0)
 			(effects
 				(font
@@ -7156,81 +7222,16 @@
 				(hide yes)
 			)
 		)
+		(pin "1"
+			(uuid "fa2b58bf-b7f5-4427-9707-09f4ca890ec2")
+		)
 		(pin "2"
-			(uuid "6b9f8932-cec1-43cb-bf82-0db92ff8b284")
-		)
-		(pin "1"
-			(uuid "b22ab61a-d5ce-4985-9124-f7d026aa5394")
-		)
-		(instances
-			(project ""
-				(path "/31ac04e5-0b29-4cf4-90ae-9d7058f5ad37/5a7295cb-e95a-4ca1-9c0d-5c618531111e"
-					(reference "R15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 120.65 123.19 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "77b243e3-87db-4ae3-bc43-92549fadc3eb")
-		(property "Reference" "#PWR049"
-			(at 120.65 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 117.856 124.714 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 120.65 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 120.65 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 120.65 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "36a3fe14-2cc2-48e5-b0a1-86585c193cbb")
+			(uuid "7f7bc05d-c194-4fcb-a46c-1a710706845d")
 		)
 		(instances
 			(project "ModuCard-BreakoutBoard"
 				(path "/31ac04e5-0b29-4cf4-90ae-9d7058f5ad37/5a7295cb-e95a-4ca1-9c0d-5c618531111e"
-					(reference "#PWR049")
+					(reference "R15")
 					(unit 1)
 				)
 			)
